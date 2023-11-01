@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+body {
+    margin: o;
+    padding: 0;
+    background-color: brown;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    width: 25%;
+}
+.logo img{
+    width: 100%;
+}
+h2{
+    font-family: 'Bebas Neue', sans-serif;
+}
+h3{
+    font-family: 'Teko', sans-serif;
+}
+h4{
+    font-family: 'Bebas Neue', sans-serif;
+}
+h5{
+    font-family: 'Teko', sans-serif;
+}
+h6{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: large;
+}
+h7{
+    font-family: 'Teko', sans-serif;
+    font-size: large;
+}
+h8{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: large;
+}
